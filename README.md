@@ -2,7 +2,7 @@
 
 The purpose of this homework is to leverage animations and gestures to transition between screens. We're going to use the techniques from this week to implement some interactions in Facebook.
 
-Time spent: 20 hours spent in total
+Time spent: 14 hours spent in total
 
 Completed user stories:
 
@@ -12,9 +12,7 @@ Completed user stories:
 * If the user scrolls a large amount and releases, the full screen photo should dismiss.
 * Optional: The full screen photo should be zoomable.
 
-Note:
-
-I didn't understand the directions for the optionals, so I looked at the Facebook app and recreated the post screen with all photos. 
+Note: I didn't understand the directions for the optionals, so I looked at the Facebook app and recreated the post screen with all photos. I almost have the paging of fullscreen images done but could not get it done on time.
 
 
 Walkthrough of Facebook app:
