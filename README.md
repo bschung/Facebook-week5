@@ -6,12 +6,15 @@ Time spent: 20 hours spent in total
 
 Completed user stories:
 
-Project Requirements completed
 * Tapping on a photo in the news feed should expand the photo full screen.
 * Tapping the Done button should animate the photo back into its position in the news feed.
 * On scroll of the full screen photo, the background should start to become transparent, revealing the feed.
 * If the user scrolls a large amount and releases, the full screen photo should dismiss.
 * Optional: The full screen photo should be zoomable.
+
+Note:
+
+I didn't understand the directions for the optionals, so I looked at the Facebook app and recreated the post screen with all photos. 
 
 
 Walkthrough of Facebook app:
@@ -20,5 +23,4 @@ Walkthrough of Facebook app:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-# MFacebook
 # Facebook-week5
