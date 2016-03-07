@@ -21,6 +21,9 @@ class CreatePhotoViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBAction func onCancelButton(sender: AnyObject) {
+        dismissViewControllerAnimated(true, completion: nil)
+    }
 
     /*
     // MARK: - Navigation
